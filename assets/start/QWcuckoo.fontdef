@@ -1,0 +1,8 @@
+
+QWcuckoo
+{
+    type truetype
+    source QWcuckoo.ttf
+    size 16
+    resolution 96
+}
