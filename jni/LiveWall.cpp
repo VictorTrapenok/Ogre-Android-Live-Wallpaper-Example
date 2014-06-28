@@ -130,7 +130,7 @@
  	camera->setAutoAspectRatio(true);
 
  	vp = gRenderWnd->addViewport(camera);
- 	vp->setBackgroundColour(Ogre::ColourValue(0.7f, 0.0f, 1.0f));
+ 	vp->setBackgroundColour(Ogre::ColourValue(1.0f, 1.0f, 1.0f));
  	vp->setMaterialScheme(Ogre::RTShader::ShaderGenerator::DEFAULT_SCHEME_NAME);
 
  	Ogre::RTShader::ShaderGenerator::getSingletonPtr()->invalidateScheme(Ogre::RTShader::ShaderGenerator::DEFAULT_SCHEME_NAME);

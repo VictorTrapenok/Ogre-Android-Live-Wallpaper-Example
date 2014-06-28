@@ -24,7 +24,7 @@
     <string name="wallpapers">Example Wallpapers</string>
 
     <!-- Wallpaper showing a cube -->
-    <string name="wallpaper_cube1">Cube</string>
+    <string name="wallpaper_cube1">Ogre3D wallpaper example</string>
 
     <!-- Wallpaper showing a cube or dodecahedron, data read from resource -->
     <string name="wallpaper_cube2">Cube - resource</string>
